@@ -1,7 +1,7 @@
 # idTech4-DSP-Audio: Ray-Traced Audio Offload for Doom 3 (id Tech 4 Engine)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://example.com) <!-- Replace with actual CI if set up -->
+[![Build Status](https://img.shields.io/badge/build-Prototype-brightgreen.svg)](https://example.com) <!-- Replace with actual CI if set up -->
 [![Contributors](https://img.shields.io/badge/contributors-1-orange.svg)](https://github.com/yourusername/idTech4-DSP-Audio/graphs/contributors)
 
 ## Project Overview
